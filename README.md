@@ -1,9 +1,4 @@
 # Personal_voice_activated_AI_assistant
-This is a personal voice-activated AI assistant for your personal computer. It uses the latest LLM models, like DeepSeek, but you can also use any other LLM models.
-# Personal_voice_activated_AI_assistant
-This is an personal voice activated AI assistant for your personal computer using latest LLM models like deepseek and you can use any other LLM model also 
- # Personal Voice Activated AI Assistant
-
 This is a personal voice-activated AI assistant for your computer. It leverages the latest LLM models, such as `deepseek-r1`, and can be configured to use other LLM models as well.
 
 ## Features
